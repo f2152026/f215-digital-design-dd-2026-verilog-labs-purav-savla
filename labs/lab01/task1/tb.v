@@ -15,6 +15,7 @@ module tb;
     .cout (t_cout)
   );
 
+
   // Waveform dump configuration
   string vcd_file;
   initial begin
