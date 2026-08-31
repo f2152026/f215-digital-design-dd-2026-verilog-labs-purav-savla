@@ -4,6 +4,8 @@
 // against your Task 4 implementations, copy rca64.v / cla64_flat.v /
 // cla64_blocked.v into this folder too and uncomment the matching option.
 
+`timescale 1ns/1ps
+
 module dut(
   input  [63:0] a,
   input  [63:0] b,
