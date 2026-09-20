@@ -21,3 +21,4 @@ module comp2 (
   assign LT = (A <  B);
 
 endmodule
+
